@@ -1,16 +1,17 @@
-id: opecha:P000394
+id: P000394
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG4225
   title: དཔལ་ལྡན་མཁྱེན་བརྩེ་འོད་ཟེར་གྱི་རྣམ་ཐར་ཀུན་ཁྱབ་སྙན་པའི་བ་དན
-  volume:
+  author: ''
+  volumes:
     6f9b2fc281144a7ba586335b71cb8913:
       image_group_id: I1PD97416
       title: Volume 1 of dpal ldan mkhyen brtse 'od zer gyi rnam thar kun khyab snyan
         pa'i ba dan
       volume_number: 1
       total_pages: 186
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: དཔལ་ལྡན་མཁྱེན་བརྩེ་འོད་ཟེར་གྱི་རྣམ་ཐར་ཀུན་ཁྱབ་སྙན་པའི་བ་དན
   author: ''
